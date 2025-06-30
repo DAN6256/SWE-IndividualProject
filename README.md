@@ -90,7 +90,8 @@ IndividualProjectSourceCode/
 
 1. Clone the repository:
 
-   ```git clone git@github.com:DAN6256/SWE-IndividualProject.git
+   ```bash
+   git clone git@github.com:DAN6256/SWE-IndividualProject.git
    ```
 
 2. Open the project in your preferred IDE or build using command-line tools.
