@@ -176,7 +176,7 @@ controller.executeCurrentMode();
 
 ## UML Class Diagram (Zoom to see)
 
-![UML Class Diagram](docs/diagrams/umldiagram.png)
+![UML Class Diagram](IndividualProjectSourceCode/docs/diagrams/umldiagram.png)
 
 ## License
 
