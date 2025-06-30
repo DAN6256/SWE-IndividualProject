@@ -88,10 +88,9 @@ IndividualProjectSourceCode/
 
 ### Installation
 
-1. Download project folder:
+1. Clone the repository:
 
-   ```download project folder into a known location.
-    This project is currently not on github but will soon be.
+   ```git clone git@github.com:DAN6256/SWE-IndividualProject.git
    ```
 
 2. Open the project in your preferred IDE or build using command-line tools.
